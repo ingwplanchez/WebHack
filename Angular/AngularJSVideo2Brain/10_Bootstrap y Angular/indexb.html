@@ -1,0 +1,85 @@
+ 
+<!DOCTYPE html>
+<html ng-app="bootstrapApp">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+        <style> .btn{margin-bottom: 20px} </style>
+        
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.17/angular.min.js"></script>
+        <script src="https://code.angularjs.org/1.2.21/angular-route.min.js"></script>
+        
+        
+        
+    </head>
+    <body ng-controller="controladorAnimales">
+        
+        <!-- Navbar --->
+        
+        
+        <div ng-include src=" 'plantillas/menu.html' "> </div>
+        <!-- /NavBar --->
+        
+        
+         <div class="jumbotron">
+                <div class="container">
+                    <h1>Bienvenido al NG-ZOO</h1>
+                    
+                    <input type="text" class="form-control"  ng-model="animalextra">
+                    <a class="btn btn-warning btn-primary" ng-click="mostrarAnimales()"> Agregar Animales al NG-ZOO </a>
+                </div>
+         </div>
+        
+        <div class="container" >
+            
+            
+
+
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="animal in animales">{{animal}}</li>
+            </ul>
+                
+            
+        
+        
+        </div>
+        <script src="http://code.jquery.com/jquery.js"></script>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        
+        <script>
+             var bootstrapApp = angular.module( 'bootstrapApp' , [] )
+             
+             
+             
+             
+             
+              bootstrapApp.controller ( 'controladorAnimales' , [ '$scope' , function($scope){
+          
+                   $scope.animales = ['Tigre', 'Elefante' , 'Mono', 'Oso' , 'Rinoceronte']
+                    
+                   
+                   $scope.mostrarAnimales = function(){
+                   
+                       $scope.animales.push( $scope.animalextra)
+                       $scope.animalextra = ""
+                    
+                   }
+          
+              }])
+             
+             
+        </script>
+        
+        
+    </body>
+</html>
+ 

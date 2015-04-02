@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<script language="JavaScript1.2">
+
+estudiante = {
+	nombres:"",
+	apellidos:"",
+	semestre:3,
+	promedio:0,
+	notasMaterias : {
+	fisica:4.4,
+	matematicas:4.0,
+	programacion:4.2
+	}
+};
+
+estudiante.nombres="Andrés Francisco";
+
+estudiante.apellidos="Gaitán Guzmán";
+estudiante.promedio=(estudiante.notasMaterias.fisica+estudiante.notasMaterias.matematicas+estudiante.notasMaterias.programacion)/3;
+document.write("El estudiante "+estudiante.nombres + " " +estudiante.apellidos + " de " + estudiante.semestre + " semestre,obtuvo como promedio " + estudiante.promedio);
+
+</script>
+<TITLE>Objeto
+Simple</TITLE> </HEAD>
+<BODY>
+</BODY>
+</HTML>

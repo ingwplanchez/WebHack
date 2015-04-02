@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<TITLE>Datos</TITLE>
+<SCRIPT language="JavaScript1.2">
+//Definición de la función calcula
+var actual=0;
+var nacimiento=0;
+
+
+function calcula(actual, nacimiento)
+{//Definición de la función escribeDatos
+
+ edad = actual-nacimiento;
+}
+
+function escribeDatos(nombre)
+{
+/*La variable edad recibe el resultado devuelto por calcula,
+que es llamada con los argumentos actual y nacimiento */
+calcula(2004, 1986);
+document.write("Hola, soy " + nombre + " y tengo " +
+edad + " años");
+}
+</SCRIPT>
+</HEAD>
+
+<BODY>
+<SCRIPT language="JavaScript1.2">
+//Llamado a la función escribeDatos con el argumento nombre
+escribeDatos("Andrés Gaitán");
+</SCRIPT>
+</BODY>
+</HTML>

@@ -1,0 +1,12 @@
+
+.tam{
+	height: 30px;
+	width: 30px;
+	overflow: hidden;
+	/*Propiedades de resize
+		both: permite modificar en horizontal y vertical;
+		horizontal:permite modificar el tamaño solo en horizaontal
+	*/
+	resize: both;
+	border:solid;
+}

@@ -1,0 +1,29 @@
+
+/*Aplicando el mismo estilo a H1 y H2*/
+h1,h2{
+	color: #2890ce;
+	text-decoration: underline;
+}
+
+p{
+	color: #28cec8;	
+} 
+
+/*Creacion de una clase*/
+.instructor{ 
+	color: #006699;
+} 
+
+/*Creacion de in Id*/
+#piePagina{
+	color: #86ce28;
+}
+
+/*Modificando elementos especificos*/
+nav ul li{
+	color: #3333cc;
+}
+
+article ul li{
+	color: #ce285c;
+}

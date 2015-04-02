@@ -1,0 +1,81 @@
+<!doctype html>
+<html ng-app="css" >
+  <head>
+	<meta charset="utf-8">
+	<title>Mostrar y Ocultar elementos </title>
+      
+      <style>
+        .alerta{
+            width: 400px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+            font-family: monospace;
+            color: #fff;
+            background: #000;
+            font-size: 22px
+        }
+      
+      </style>
+      
+      
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.17/angular.min.js" > </script>
+  </head>
+  <body>
+	  
+      <div ng-controller="controlador1" >
+          
+          
+           <button ng-click="mostrar()"> Revelar Secreto </button>
+          <button ng-click="ocultar()"> Volver al misterio </button>
+          
+          
+            <div class="alerta" ng-show="visibilidadMensaje">
+                
+                Este es un mensaje secreto.
+          
+            </div>
+         
+
+      </div>
+      
+       
+      
+      
+      <script>
+      
+          var miAplicacion = angular.module( 'css' , [] )
+          
+          miAplicacion.controller ( 'controlador1' , [ '$scope' , function($scope){
+              
+              
+                $scope.visibilidadMensaje = false
+              
+              
+                
+                
+                $scope.mostrar = function(){
+                 
+                        
+                   $scope.visibilidadMensaje = true
+                
+                }
+                
+                
+                $scope.ocultar = function(){
+                    
+                   $scope.visibilidadMensaje = false  
+                
+                }
+                
+                
+            
+          
+          } ] )
+          
+      
+      </script>
+      
+
+  </body>
+</html>

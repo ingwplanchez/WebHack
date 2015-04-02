@@ -1,0 +1,39 @@
+
+a{
+	color: #333333;
+	text-decoration: none;
+}
+
+a:link{ /*MOdifica el color del link*/
+	color: #900;
+}
+
+a:visited{ /*Modifica el color del enlace visitado*/
+	color: #003399;
+}
+
+a:hover{/*Modifica el enlace cuando el mouse esta sobre el*/
+	background-color: #ccc;
+}
+
+input:focus{ /*Modifica el input cuando se presiona en el*/
+	background-color: #000;
+	color: #fff;
+}
+
+input:hover{ /*Modifica el input fondo cuando el cursos esta sobre el*/
+	background-color: #ff0000;
+}
+
+ul li:first-child{ /*Modifica el primer elemento de la lista*/
+	background-color: #090;
+}
+
+ul li:last-child{ /*Modifica el ultimo elemento de la lista*/
+	background-color: grey;
+}
+
+ul li:nth-child(2){ /*Mofifica el segundo elemento de la lista*/
+	background-color: darkgrey;
+}
+

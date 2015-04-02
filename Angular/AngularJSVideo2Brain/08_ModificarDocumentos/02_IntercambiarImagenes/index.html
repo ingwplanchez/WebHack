@@ -1,0 +1,61 @@
+<!doctype html>
+<html ng-app="css" >
+  <head>
+	<meta charset="utf-8">
+	<title>Mostrar y Ocultar elementos </title>
+      
+      <style>
+        img{
+            padding: 5px;
+            border: solid 1px #000;
+            display: block;
+            margin: 10px 0;
+            width: 300px;
+        }
+      
+      </style>
+      
+      
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.17/angular.min.js" > </script>
+            
+  </head>
+  <body>
+	  
+      <div ng-controller="controlador1" >
+          
+          
+          <img  ng-src="{{imagenActual}}" >
+          
+          
+          <button ng-click="mostrarImagen('ejemplo1.png')" > Imagen 1 </button>
+          <button ng-click="mostrarImagen('ejemplo2.png')" > Imagen 2 </button>
+         
+
+      </div>
+      
+       
+      
+      
+      <script>
+      
+          var miAplicacion = angular.module( 'css' , [] )
+          
+          miAplicacion.controller ( 'controlador1' , [ '$scope' , function($scope){
+
+            $scope.imagenActual = 'ejemplo1.png'
+              
+              $scope.mostrarImagen = function( _imagen ){
+              
+                $scope.imagenActual = _imagen
+                  
+              }
+              
+          
+          } ] )
+          
+      
+      </script>
+      
+
+  </body>
+</html>

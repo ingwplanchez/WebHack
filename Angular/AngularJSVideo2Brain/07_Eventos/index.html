@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="app"> <!-- Convierte la pagina en una aplicacion de Angular JS-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<title>Eventos</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+	
+</head>
+<body>
+
+<div ng-controller="controlador1">
+     <button ng-click = "clickSimple()">Click</button>
+     <button ng-dblclick = "clickDoble()">Doble Click</button>
+     <img src="twitter-linux.jpg" ng-mouseleave="mouseDejaLaImagen()" ng-mouseenter ="mouseSobreLaImagen()">
+     <h1>{{evento}}</h1>
+</div>
+
+<script>
+    var miAplicacion = angular.module('app',[])
+    miAplicacion.controller('controlador1',['$scope',function($scope){
+        
+        $scope.clickSimple = function(){
+            $scope.evento = "Click"
+        }
+        
+        $scope.clickDoble = function(){
+            $scope.evento = "Doble Click"
+        }
+        
+        $scope.mouseDejaLaImagen = function(){
+            $scope.evento = "Mouse sale de la imagen"
+        }
+        
+        $scope.mouseSobreLaImagen = function(){
+            $scope.evento = "Mouse entra en la imagen"
+        }
+    }])
+</script>
+
+</body>
+</html>
+

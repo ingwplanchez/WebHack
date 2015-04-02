@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Program02_Formulario</title>
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:200px;
+	height:33px;
+	z-index:1;
+	left: 108px;
+	top: 39px;
+}
+body {
+	background-color: #C0DFFD;
+}
+#apDiv2 {
+	position:absolute;
+	width:484px;
+	height:247px;
+	z-index:2;
+	left: 360px;
+	top: 36px;
+}
+#apDiv3 {
+	position:absolute;
+	width:487px;
+	height:40px;
+	z-index:3;
+	left: 348px;
+	top: 303px;
+}
+#apDiv4 {
+	position:absolute;
+	width:178px;
+	height:22px;
+	z-index:4;
+	left: 360px;
+	top: 303px;
+}
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #003366;
+	font-size: 11px;
+}
+#apDiv5 {
+	position:absolute;
+	width:258px;
+	height:115px;
+	z-index:5;
+	left: 590px;
+	top: 21px;
+}
+.style4 {
+	color: #0033FF;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#apDiv6 {
+	position:absolute;
+	width:485px;
+	height:24px;
+	z-index:5;
+	left: 360px;
+	top: 11px;
+}
+-->
+</style>
+</head>
+
+<body>
+<br/>
+<form id="form1" name="form1" method="post" action="Procesado.php">
+  <table width="307" border="0" cellpadding="4" cellspacing="2">
+    <tr>
+      <td width="61"><span class="style1">Nombre*</span></td>
+      <td colspan="3"><label>
+        <input name="nombre" type="text" id="nombre" size="36" />
+      </label></td>
+    </tr>
+    <tr>
+      <td><span class="style1">Apellido*</span></td>
+      <td colspan="3"><label>
+        <input name="apellido" type="text" id="apellido" size="36" />
+      </label></td>
+    </tr>
+    <tr>
+      <td><strong class="style1">Teléfono</strong></td>
+      <td colspan="3"><label>
+        <input name="telefono" type="text" id="telefono" size="36" />
+      </label></td>
+    </tr>
+    <tr>
+      <td><strong class="style1">Correo*</strong></td>
+      <td colspan="3"><input name="correo" type="text" id="correo" size="36" /></td>
+    </tr>
+    <tr>
+      <td><strong class="style1">Mensaje</strong></td>
+      <td colspan="3"><label>
+        <textarea name="mensaje" id="mensaje" cols="29" rows="6"></textarea>
+      </label></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td width="55"><label>
+        <input type="submit" name="button" id="mensaje" value="Enviar" />
+      </label></td>
+      <td width="91">&nbsp;</td>
+      <td width="58"><label>
+        <input type="submit" name="limpiar" id="limpiar" value="Limpiar" />
+      </label></td>
+    </tr>
+  </table>
+  <div id="apDiv2"><img src="images/contacto-enlace.jpg" width="484" height="246" /></div>
+  <div id="apDiv6">
+    <div align="center" class="style1">
+      <div align="center">Escribe tu inquietud y en lo mas breve te responderemos.</div>
+    </div>
+  </div>
+  <div class="style1" id="apDiv3">
+    <div align="center">Los campos marcados con asterisco (*) son obligatorios.</div>
+  </div>
+  <div class="style1" id="apDiv4"><strong>NOTA:</strong></div>
+  <label></label>
+</form>
+
+</body>
+
+</html>

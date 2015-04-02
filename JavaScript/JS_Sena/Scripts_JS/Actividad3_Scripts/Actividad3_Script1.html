@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script>
+
+/* Script para determinar el nombre
+ de la persona que es mayor.*/
+
+function Mayor(){
+
+var campo1 = form1.Edad1.value;
+var campo2 = form1.Edad2.value;
+var	nombre1 = form1.Nombre1.value;
+var	nombre2 = form1.Nombre2.value;
+var	num1 = parseInt(form1.Edad1.value);
+var	num2 = parseInt(form1.Edad2.value);
+	
+	if 	(campo1=="" || campo2=="" || nombre1=="" || nombre2==""  ){
+		alert('Se encuentran algunos campos vacíos, por favor completar.')
+		} // Fin del If
+	
+	else {
+		if (num1 > num2){
+			//document.write('El mayor es: '+nombre1)
+			alert('El mayor es: '+nombre1+' con '+ num1+' años.')
+		} // Fin del If
+	
+		if (num2 > num1 ){
+			//document.write('El mayor es: '+nombre1)
+			alert('El mayor es: '+nombre2+' con '+ num2+' años.')
+		} // fin del If
+	
+		if (num1 == num2 ){
+			//document.write('Ambos son iguales')
+			alert('Ambos tienen la misma edad')
+		} //Fin del If
+	} // Fin del Else
+} // Fin de la funcion
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Determinar el Mayor</title>
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:229px;
+	height:41px;
+	z-index:1;
+	left: 40px;
+	top: 36px;
+}
+.style1 {
+	color: #66FF66
+}
+.style2 {color: #00FF33}
+body {
+	background-color: #000000;
+}
+-->
+</style>
+
+</head>
+<body>
+
+<form name="form1">
+
+  <div id="apDiv1">
+    <h2 class="style2">¿ Quién es Mayor ?</h2>
+  </div>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <table width="270" height="195" border="0" cellpadding="1" cellspacing="5">
+    <tr>
+      <td width="72"><pre class="style1">Nombre 1</pre></td>
+      <td width="175">
+            <input type="text" name="Nombre1" id="Nombre1" />
+      </td>
+    </tr>
+    <tr>
+      <td><pre class="style2">Edad 1</pre></td>
+      <td>
+        <input type="text" name="Edad1" id="Edad1" />
+      </td>
+    </tr>
+    <tr>
+      <td><pre class="style2">Nombre 2</pre></td>
+      <td>
+        <input type="text" name="Nombre2" id="Nombre2" />
+      </td>
+    </tr>
+    <tr>
+      <td><pre class="style2">Edad 2</pre></td>
+      <td>
+        <input type="text" name="Edad2" id="Edad2" />
+      </td>
+    </tr>
+  </table>
+  <table width="269" border="0" cellspacing="5" cellpadding="1">
+    <tr>
+      <td>
+        <div align="center">
+          <input type="button" name="Calcular" id="Calcular" value="CALCULAR" onClick="Mayor()">
+        </div>
+      </td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+<script>
+alert("Introduzca 2 Nombres y 2 edades respectivamente, para determinar quien es mayor.");
+</script>
+</body>
+</html>

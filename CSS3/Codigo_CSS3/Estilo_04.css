@@ -1,0 +1,35 @@
+ul li{
+	list-style: none; /*Sin puntos al lado de la lista */
+	font-size: 30px; /*Tamaño de letra de la lista*/	
+	font-weight: bold;
+
+}
+
+ul li::before{
+	content: url(icons-png/user-black.png); /*Imagen antes del elemento*/
+}
+
+ul li::after{
+	content: url(icons-png/user-black.png); /*Imagen despues del elementos*/ 
+}
+
+ul li:nth-child(2)::before{
+	content: url(icons-png/cloud-black.png); /* Imagen en el 2do elemento*/
+}
+
+/*Paseudo clase*/
+ul li:nth-child(3)::before{
+	content: url(icons-png/comment-black.png);  /*Imagen en el tercer elemento*/
+}
+
+p::first-letter{
+	font-size: 36px;
+	font-weight: bold;
+	color: #ff0000;
+}
+
+p::first-line{
+	color: #900;
+	text-decoration: underline;
+}
+

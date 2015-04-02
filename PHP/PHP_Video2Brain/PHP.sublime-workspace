@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"navegador"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"mysql",
+				"mysql_close"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"var",
+				"varchar"
+			],
+			[
+				"pa",
+				"parametro"
+			],
+			[
+				"l",
+				"loop	Arduino loop"
+			],
+			[
+				"dela",
+				"delayMicroseconds	Arduino delayMicroseconds()"
+			],
+			[
+				"an",
+				"analogRead	Arduino analogRead"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "FavoritosOnline/instalacion.php",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "FavoritosOnline/index.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 223.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHP/FavoritosOnline/principal.php",
+		"/C/xampp/htdocs/PHP/FavoritosOnline/instalacion.php",
+		"/C/xampp/htdocs/PHP/FavoritosOnline/actualizarfavorito.php",
+		"/C/xampp/htdocs/PHP/FavoritosOnline/eliminarfavorito.php",
+		"/C/xampp/htdocs/PHP/FavoritosOnline/index.php",
+		"/C/xampp/htdocs/PHP/FavoritosOnline/crearfavorito.php",
+		"/C/xampp/htdocs/PHP/SQLITE/comprobacion.php",
+		"/C/xampp/htdocs/PHP/SQLITE/crearbiblioteca.php",
+		"/C/xampp/htdocs/PHP/Log/logeador.php",
+		"/C/xampp/htdocs/PHP/Log/verlogs.php",
+		"/C/xampp/htdocs/PHP/Formulario.html",
+		"/C/xampp/htdocs/PHP/Program_06_Cadenas.php",
+		"/C/xampp/htdocs/PHP/Program_11_While.php",
+		"/C/xampp/htdocs/PHP/Program_03_Numeros.php",
+		"/C/xampp/htdocs/PHP/Program_02_Formulario.php",
+		"/C/xampp/htdocs/PHP/Log/logs.dat",
+		"/C/xampp/htdocs/FlatFile/verlogs.php",
+		"/C/xampp/htdocs/FlatFile/logs.dat",
+		"/C/xampp/htdocs/FlatFile/logeador.php",
+		"/C/xampp/htdocs/FlatFile/escribir.php",
+		"/C/xampp/htdocs/FlatFile/text.txt",
+		"/C/xampp/htdocs/FlatFile/text.text",
+		"/D/Programas_WEB/HTML5/Pag_07_Datalist.html",
+		"/D/Programas_WEB/HTML5/Pag_06_Audio.html",
+		"/D/Programas_WEB/HTML5/Pag_05_Hgroup.html",
+		"/D/Programas_WEB/HTML5/Pag_04_Aside.html",
+		"/D/Programas_WEB/HTML5/Pag_03_Section.html",
+		"/D/Programas_WEB/HTML5/Pag_02_Article.html",
+		"/D/Programas_WEB/HTML5/Pag_01_Nav.html",
+		"/D/Programas_WEB/HTML5/Pag_00_Header.html",
+		"/C/xampp/htdocs/mysql/update.php",
+		"/C/xampp/htdocs/mysql/delete.php",
+		"/C/xampp/htdocs/mysql/crearnuevo.php",
+		"/C/xampp/htdocs/mysql/order.php",
+		"/C/xampp/htdocs/mysql/where.php",
+		"/C/xampp/htdocs/mysql/insertar.php",
+		"/C/xampp/htdocs/mysql/select.php",
+		"/C/xampp/htdocs/mysql/conectar3.php",
+		"/C/xampp/htdocs/mysql/select",
+		"/C/xampp/htdocs/mysql/conectar2.php",
+		"/C/xampp/htdocs/mysql/conectar1.php",
+		"/C/xampp/htdocs/mysql/conectar.php",
+		"/C/xampp/htdocs/PHP/Program_26_Herencia.php",
+		"/C/xampp/htdocs/PHP/Program_25_LlamarMetodo.php",
+		"/C/xampp/htdocs/PHP/Program_23_Objetos.php",
+		"/C/xampp/htdocs/PHP/Program_24_MetodosAtributos.php",
+		"/C/xampp/htdocs/PHP/Program_22_Clases.php",
+		"/C/xampp/htdocs/PHP/Program_21_M_AsocMultidim.php",
+		"/C/xampp/htdocs/PHP/Program_20_Matriz.php",
+		"/C/xampp/htdocs/PHP/Program_21_M_AsociativasMultidim.php",
+		"/C/xampp/htdocs/PHP/Program_21_M_AsociativasMultidimensionales.php",
+		"/C/xampp/htdocs/PHP/Program_17_FuncionesAmbito.php",
+		"/C/xampp/htdocs/PHP/Program_16_FuncionParametro.php",
+		"/C/xampp/htdocs/PHP/Program_15_Funciones.php",
+		"/C/xampp/htdocs/PHP/Program_14_ForEach.php",
+		"/C/xampp/htdocs/PHP/Program_13_Goto.php",
+		"/C/xampp/htdocs/PHP/Program_12_While.php",
+		"/C/xampp/htdocs/PHP/Program_10_Switch.php",
+		"/C/xampp/htdocs/PHP/Program_09_For.php",
+		"/C/xampp/htdocs/PHP/Program_08_If.php",
+		"/C/xampp/htdocs/PHP/Program_07_Op_Asignacion.php",
+		"/C/xampp/htdocs/PHP/Program_07_Op_Aritmeticos.php",
+		"/C/xampp/htdocs/PHP/Program_07_Op_Cadenas.php",
+		"/C/xampp/htdocs/PHP/Program_05_Cliente.php",
+		"/C/xampp/htdocs/PHP/Program_04_Boole.php",
+		"/C/xampp/htdocs/PHP/Program_01_Variables.php",
+		"/C/xampp/htdocs/PHP/Program_00_echo.php",
+		"/C/xampp/htdocs/PHP/phpInfo.php",
+		"/C/xampp/htdocs/PHP/x.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_20.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_5.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_4.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_3.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_2.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_9.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/jquery/efectos/Animaciones.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/miscript.js",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_1.html",
+		"/C/Users/Anonymous/Desktop/Javascript/Programas_JS/JAVASCRIPT/Script_0.html",
+		"/C/Users/Anonymous/Documents/Arduino/InstrumentacionProyecto/InstrumentacionProyecto.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Instrumentacion_ArduinoMega/Instrumentacion_ArduinoMega.ino",
+		"/C/Users/Anonymous/Documents/Arduino/xxxx/xxxx.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_03_Desplazamiento/Desplazamiento_Arduino/Desplazamiento.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_00_Parpadeo/Parpadeo/Parpadeo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/asd/asd.ino",
+		"/C/Users/Anonymous/Documents/Prueba/Prueba.ino"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "FavoritosOnline/instalacion.php",
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "FavoritosOnline/index.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Contador_8_Bits_Arduino":
+	{
+		"height": 118.0
+	},
+	"output.Desplazamiento_Arduino":
+	{
+		"height": 118.0
+	},
+	"output.InstrumentacionProyecto":
+	{
+		"height": 118.0
+	},
+	"output.Parpadeo":
+	{
+		"height": 118.0
+	},
+	"output.Parpadeo_Arduino":
+	{
+		"height": 118.0
+	},
+	"output.Prueba":
+	{
+		"height": 100.0
+	},
+	"output.Semaforo_Arduino":
+	{
+		"height": 118.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.xxxx":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}

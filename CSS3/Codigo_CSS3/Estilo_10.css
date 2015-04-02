@@ -1,0 +1,10 @@
+body{
+	background-image: url(img/tux.png),url(img/fondo1.jpg);
+	background-repeat: no-repeat,repeat;
+	background-position: center ,left top;
+	background-size: 50% 50%;
+}
+
+#space{
+	height: 800px;
+}
