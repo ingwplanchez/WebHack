@@ -1,5 +1,5 @@
 <?php
-	$conexion = mysql_connect("localhost","video2brain","video2brain");
+	$conexion = mysql_connect("localhost","rootphp","toor");
 
 	if (!$conexion) {
 		die('No he podido conectar: '.mysql_error());

@@ -1,6 +1,6 @@
 <?php
 	// realizamos la conexion
-	$conexion = mysql_connect("localhost","video2brain","video2brain");
+	$conexion = mysql_connect("localhost","rootphp","toor");
 
 	// Estructura de control por si falla la conexion
 	if(!$conexion){

@@ -6,7 +6,7 @@
 	}
 
 	// Creacion de una base de datos
-/*
+
 	if (mysql_query("CREATE DATABASE agenda",$conexion)) {
 		echo "Se ha creado la base de datos";
 	}
@@ -14,11 +14,11 @@
 		echo "No se ha creado la base de datos";
 	}
 	
-*/
+
 	// Preparo esta peticion
-	mysql_select_db("primerabase",$conexion); // Seleccion de la base de datos
+	mysql_select_db("agenda",$conexion); // Seleccion de la base de datos
 	// Se crea la tabla y los registros
-	$sql = "CREATE TABLE agenda 
+	$sql = "CREATE TABLE miagenda 
 	(
 	personaID int NOT NULL AUTO_INCREMENT,PRIMARY KEY(personaID),
 	Nombre varchar(15),

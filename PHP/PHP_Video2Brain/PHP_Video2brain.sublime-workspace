@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"int",
+				"intHumi"
+			],
+			[
+				"h",
+				"humi"
+			],
+			[
+				"E",
+				"EthernetSetpoint"
+			],
+			[
+				"In",
+				"IntSetpoint"
+			],
+			[
+				"m",
+				"mostrar"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"s",
+				"source	<source>"
+			],
+			[
+				"ME",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SQLITE/verbiblioteca.php",
+			"settings":
+			{
+				"buffer_size": 561,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SQLITE/delete.php",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SQLITE/update.php",
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - Sublime Text Console"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/PHP_Video2Brain/SQLITE/ponercontenido.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/SQLITE/crearbiblioteca.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/conectar.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/delete.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/update.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/where.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/insertar.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/crearnuevo.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/conectar4.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/select.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/order.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/conectar3.php",
+		"/C/xampp/htdocs/PHP_Video2Brain/Mysql/conectar1.php",
+		"/C/Users/Anonymous/Documents/GitHub/Web/WebHack/PHP/PHP_Video2Brain/Program_00_echo.php",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_15_JSEvents.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/W3S_00_JSONSintaxis.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/W3S_01_JSONHowTo.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/W3S_02_JSON_HTTP.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/myTutorials.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/myTutorials.txt",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/W3S_02_JSON_Archivos.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_14_JSObjects.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JSON/myTutorials",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_13_JSDataType.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_12_JSDataType.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_11_JSBlockFunction.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_24_AJSInclude.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/myNoteCtrl.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_25_AJSAplicacion.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/myNoteApp.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_22_AJSFormValidacion.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_23_AJSBootStrap.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/myUsers.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/myUsers_List.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/myUsers_Form.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_21_AJSForm.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_20_AJSshowToggle.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_19_AJSHideToggle.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_18_AJSClickEvent.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_17_AJShideDOM.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_16_AJSshowDOM.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_15_AJSDisabledDOM.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_14_AJSTablaCSS2.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_13_AJSTablaCSS.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_12_AJSTablas.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_11_AJSHttp.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_10_AJSFiltro4.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_09_AJSFiltro3.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_07_AJSFiltro.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_08_AJSFiltro2.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/namesController.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/personController.js",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_07_AJSFiltro3.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_07_AJSFiltro2.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_JavaScript.sublime-project",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_JavaScript.sublime-workspace",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_AngularJS.sublime-workspace",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_04_AJSDirectivas2.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_05_AJSControllers.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_06_AJSExternalControllers.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_03_AJSExpresiones.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_02_AJSAppCtrl.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_01_AJSInitVarApp.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_AngularJS/W3S_00_AJSDirectivas.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_10_Declaraciones.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_11_BlockFunction.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_08_DocumentWrite.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_09_DocInnerHTML.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_07_Alert.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_06_JSBody.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_05_JSHead.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_04_ValidateInput.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_01_ChangeHTML.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_03_ChangeImages.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_02_ChangeTheStyle.html",
+		"/C/Users/Anonymous/Documents/GitHub/Web/W3School/W3S_JavaScript/W3S_06_Alert.html",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/index.html",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/index.htm",
+		"/C/Users/Anonymous/Desktop/MasQAmigosWeb/Prueba/Plantilla del carrusel de Manos a la Obra.htm",
+		"/C/Users/Anonymous/Desktop/index.html",
+		"/C/xampp/htdocs/PHP/Program_19_IncludeOnce.php",
+		"/C/xampp/htdocs/PHP/variables.php",
+		"/C/xampp/htdocs/PHP/Program_18_Include.php",
+		"/C/xampp/htdocs/PHP/incluido.php",
+		"/C/xampp/htdocs/PHP/Program_18_IncludeOnce.php",
+		"/C/Users/Anonymous/Documents/Arduino/DHT11_ADC/DHT11_ADC.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Web_server_IO/eth_websrv_SD_Ajax_in_out/eth_websrv_SD_Ajax_in_out.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_MonitoreoMultiple/Ethernet_MonitoreoMultiple.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Invernadero/Ethernet_Invernadero.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Inver_DHT11/Ethernet_Inver_DHT11.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_InverDHT11_2/Ethernet_InverDHT11_2.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Invernadero/index.htm",
+		"/C/Users/Anonymous/Documents/Arduino/Program_02_Contador_8_Bits/Contador_8_Bits_Arduino/Contador_8_Bits.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_00_Parpadeo/Parpadeo_Arduino/Parpadeo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Program_01_Semaforo/Semaforo_Arduino/Semaforo.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_DigitalRead/Ethernet_DigitalRead.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_LedControl/Ethernet_LedControl.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_AcordeonCanvas/Ethernet_AcordeonCanvas.ino",
+		"/C/Users/Anonymous/Documents/Arduino/InstrumentacionProyecto/InstrumentacionProyecto.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Instrumentacion_ArduinoMega/Instrumentacion_ArduinoMega.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Canvas/Ethernet_Canvas.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_WriteTemp/Ethernet_SD_WriteTemp.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_Write/Ethernet_SD_Write.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaSerial/Ethernet_TemperaturaSerial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Pulsador_Led/Pulsador_Led.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_Final/Ethernet_SD_Final.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD_WriteTempAcordeon/Ethernet_SD_WriteTempAcordeon.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_Temp_JQuery/Ethernet_Temp_JQuery.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_SD/Ethernet_SD.ino",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/Ajax/index.html",
+		"/C/Users/Anonymous/Documents/Arduino/EthernetSD_TempJQuery/EthernetSD_TempJQuery.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaFinal/Ethernet_TemperaturaFinal.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_TemperaturaCSS/Ethernet_TemperaturaCSS.ino",
+		"/C/Users/Anonymous/Documents/Arduino/EthernetSD_TempFinal/EthernetSD_TempFinal.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Ethernet_VoltajeSerial/Ethernet_VoltajeSerial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Serial_LCD/Serial_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Serial_AnalogInput/Serial_AnalogInput.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Temperatura_Serial/Temperatura_Serial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Voltaje_Serial/Voltaje_Serial.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Voltaje_LCD/Voltaje_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/Temperatura_LCD/Temperatura_LCD.ino",
+		"/C/Users/Anonymous/Documents/Arduino/ArduinoEthernet/ArduinoEthernet.ino",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/BOOTSTRAP/Bootstrap_Tutorial/bootstrap_2/videos.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarHtml.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarQuitar_Clases.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/atributos.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/agregarSinBorrar.html",
+		"/C/Users/Anonymous/Documentos/Programacion/Web/JQuery/jquery/texto/texto.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page-",
+			"@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SQLITE/verbiblioteca.php",
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SQLITE/delete.php",
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "SQLITE/update.php",
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.ArduinoEthernet":
+	{
+		"height": 130.0
+	},
+	"output.DHT11_ADC":
+	{
+		"height": 124.0
+	},
+	"output.EthernetSD_TempFinal":
+	{
+		"height": 124.0
+	},
+	"output.EthernetSD_TempJQuery":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_AcordeonCanvas":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Canvas":
+	{
+		"height": 110.0
+	},
+	"output.Ethernet_DigitalRead":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_InverDHT11_2":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Inver_DHT11":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Invernadero":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_LedControl":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_Final":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_Write":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_WriteTemp":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_SD_WriteTempAcordeon":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_Temp_JQuery":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_TemperaturaCSS":
+	{
+		"height": 132.0
+	},
+	"output.Ethernet_TemperaturaFinal":
+	{
+		"height": 124.0
+	},
+	"output.Ethernet_TemperaturaSerial":
+	{
+		"height": 130.0
+	},
+	"output.Ethernet_VoltajeSerial":
+	{
+		"height": 130.0
+	},
+	"output.InstrumentacionProyecto":
+	{
+		"height": 130.0
+	},
+	"output.Instrumentacion_ArduinoMega":
+	{
+		"height": 124.0
+	},
+	"output.Parpadeo":
+	{
+		"height": 130.0
+	},
+	"output.Parpadeo_Arduino":
+	{
+		"height": 130.0
+	},
+	"output.Pulsador_Led":
+	{
+		"height": 124.0
+	},
+	"output.Serial_AnalogInput":
+	{
+		"height": 130.0
+	},
+	"output.Serial_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Temperatura_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Temperatura_Serial":
+	{
+		"height": 130.0
+	},
+	"output.Voltaje_LCD":
+	{
+		"height": 130.0
+	},
+	"output.Voltaje_Serial":
+	{
+		"height": 130.0
+	},
+	"output.eth_websrv_SD_Ajax_in_out":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 168.0
+	},
+	"output.ll":
+	{
+		"height": 130.0
+	},
+	"output.n":
+	{
+		"height": 130.0
+	},
+	"output.stino_log":
+	{
+		"height": 130.0
+	},
+	"output.tggg":
+	{
+		"height": 130.0
+	},
+	"output.u":
+	{
+		"height": 130.0
+	},
+	"output.vvvv":
+	{
+		"height": 130.0
+	},
+	"output.x":
+	{
+		"height": 209.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true
+}

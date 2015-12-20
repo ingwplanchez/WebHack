@@ -1,5 +1,5 @@
 <?php
-	$conexion = mysql_connect("localhost","video2brain","video2brain");
+	$conexion = mysql_connect("localhost","rootphp","toor");
 
 	if (!$conexion) {
 		die('No he podido conectar: '.mysql_error());
@@ -11,7 +11,7 @@
 		echo "Se ha creado la base de datos";
 	}
 	else{
-		echo "No se ha creado la base de datos";
+		echo "No se ha creado la base de datos por el siguiente error: ".mysql_error();
 	}
 	
     // Cerrar la conexion
